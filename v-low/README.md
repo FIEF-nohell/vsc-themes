@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="src/icon.png" width="80" style="border-radius:50%"/>
+    <img src="https://raw.githubusercontent.com/isneru/vsc-themes/main/v-low/src/icon.png" width="80" style="border-radius:50%"/>
     <h2 align="center">v-Low for VSCode</h2>
 </p>
 

@@ -2,7 +2,7 @@
   "name": "jellyfish-dark",
   "displayName": "Jellyfish",
   "description": "A truly zen theme. Without boring rulers or indent lines.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "engines": {
     "vscode": "^1.77.0"
   },

@@ -1,8 +1,8 @@
 {
   "name": "jungle-scenario",
-  "displayName": "Jungle",
+  "displayName": "Jungle Scenario",
   "description": "A dark green theme for VS Code. Without boring rulers or indentation guides.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "nerudevs",
   "repository": {
     "type": "git",

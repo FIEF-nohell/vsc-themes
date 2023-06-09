@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="images/jellyfish.png" width="80" style="border-radius:50%"/>
+    <img src="https://raw.githubusercontent.com/isneru/vsc-themes/main/jellyfish/images/jellyfish.png" width="80" style="border-radius:50%"/>
     <h2 align="center">Jellyfish for VSCode</h2>
 </p>
 
@@ -17,16 +17,16 @@ You can find and install the published extension on VSCode Marketplace or by cli
 
 ## Preview
 
-![Jellyfish Theme Preview](images/themepreview.png)
+![Jellyfish Theme Preview](https://raw.githubusercontent.com/isneru/vsc-themes/main/jellyfish/images/themepreview.png)
 
 ## Colors
 
-![Theme Colors](images/colors.png)
+![Theme Colors](https://raw.githubusercontent.com/isneru/vsc-themes/main/jellyfish/images/colors.png)
 
 <p align="middle">
-  <img src="images/hex/00A6FB.png" alt="#00A6FB HEX Color Code">
-  <img src="images/hex/5CC9F5.png" alt="#5CC9F5 HEX Color Code">
-  <img src="images/hex/ACAFFF.png" alt="#ACAFFF HEX Color Code">
-  <img src="images/hex/F88DAD.png" alt="#F88DAD HEX Color Code">
-  <img src="images/hex/DA68FB.png" alt="#DA68FB HEX Color Code">
+  <img src="https://raw.githubusercontent.com/isneru/vsc-themes/main/jellyfish/images/hex/00A6FB.png" alt="#00A6FB HEX Color Code">
+  <img src="https://raw.githubusercontent.com/isneru/vsc-themes/main/jellyfish/images/hex/5CC9F5.png" alt="#5CC9F5 HEX Color Code">
+  <img src="https://raw.githubusercontent.com/isneru/vsc-themes/main/jellyfish/images/hex/ACAFFF.png" alt="#ACAFFF HEX Color Code">
+  <img src="https://raw.githubusercontent.com/isneru/vsc-themes/main/jellyfish/images/hex/F88DAD.png" alt="#F88DAD HEX Color Code">
+  <img src="https://raw.githubusercontent.com/isneru/vsc-themes/main/jellyfish/images/hex/DA68FB.png" alt="#DA68FB HEX Color Code">
 </p>

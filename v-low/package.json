@@ -2,7 +2,7 @@
   "name": "v-low",
   "displayName": "v Low",
   "description": "Faded Dark theme. Without boring rulers or indent lines.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "engines": {
     "vscode": "^1.79.0"
