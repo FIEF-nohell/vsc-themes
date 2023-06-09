@@ -1,0 +1,45 @@
+{
+  "name": "v-low",
+  "displayName": "v Low",
+  "description": "Faded Dark theme. Without boring rulers or indent lines.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "publisher": "nerudevs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isneru/vsc-themes/tree/main/v-low"
+  },
+  "galleryBanner": {
+    "color": "#16191c",
+    "theme": "dark"
+  },
+  "icon": "src/icon.png",
+  "keywords": [
+    "theme",
+    "dark",
+    "zen",
+    "minimal",
+    "minimalist",
+    "simple",
+    "clean",
+    "neru",
+    "isneru",
+    "nerudevs",
+    "v-low"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "v-Low",
+        "uiTheme": "vs-dark",
+        "path": "src/theme.json"
+      }
+    ]
+  }
+}
