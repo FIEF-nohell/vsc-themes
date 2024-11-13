@@ -1,12 +1,12 @@
 {
-  "name": "jellyfish-dark",
-  "displayName": "Jellyfish",
-  "description": "A truly zen theme. Without boring rulers or indent lines.",
-  "version": "1.0.4",
+  "name": "zenith-dark",
+  "displayName": "Zenith",
+  "description": "A minimalistic dark theme. No borders, no restrictions. (Based on Jellyfish by Isneru)",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.77.0"
   },
-  "publisher": "nerudevs",
+  "publisher": "FIEF-nohell",
   "repository": {
     "type": "git",
     "url": "https://github.com/isneru/vsc-themes/tree/main/jellyfish"
@@ -27,7 +27,8 @@
     "neru",
     "isneru",
     "nerudevs",
-    "jellyfish"
+    "zenith",
+    "nohell"
   ],
   "categories": [
     "Themes"
@@ -35,7 +36,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Jellyfish",
+        "label": "Zenith",
         "uiTheme": "vs-dark",
         "path": "./themes/jellyfish.json"
       }
